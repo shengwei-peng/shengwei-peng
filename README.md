@@ -3,9 +3,6 @@
     Hi, I'm Ken
     <img src="https://komarev.com/ghpvc/?username=Shengwei-Peng&label=Profile%20views&color=0e75b6&style=flat" alt="Shengwei-Peng" align="right"/>
 </h1>
-<h3>
-    <img src="./imgs/background.gif" align="center"/>
-</h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
