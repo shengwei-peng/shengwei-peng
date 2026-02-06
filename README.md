@@ -4,12 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=Shengwei-Peng&label=Profile%20views&color=0e75b6&style=flat" alt="Shengwei-Peng" align="right"/>
 </h1>
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Shengwei-Peng" alt="Shengwei-Peng" />
-    </a>
-</p>
-
 - 🔭 I’m currently working on **Event-based Vision.**
 
 - 🌱 I’m currently learning **Cybersecurity.**
@@ -82,11 +76,6 @@
 <h2 align="left"> 
     📈 GitHub Stats:
 </h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shengwei-Peng&show_icons=true&locale=en&theme=dark" alt="Shengwei-Peng" height="170"/>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shengwei-Peng&theme=gotham" alt="GitHub Streak" height="170"/></a>
-</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shengwei-Peng&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
