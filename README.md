@@ -4,13 +4,13 @@
     <img src="https://komarev.com/ghpvc/?username=Shengwei-Peng&label=Profile%20views&color=0e75b6&style=flat" alt="Shengwei-Peng" align="right"/>
 </h1>
 
-- 🔭 I’m currently working on **Event-based Vision.**
+- 🔭 I’m currently working on **[PEGAAi](https://www.nvidia.com/zh-tw/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/).**
 
-- 🌱 I’m currently learning **Cybersecurity.**
+- 🌱 I’m currently learning **Multi-Agent System.**
 
 - 💬 Ask me about **anything related to AI.**
 
-- 📫 How to reach me **m11207330@mail.ntust.edu.tw**
+- 📫 How to reach me **ken90516@gmail.com**
 
 - ⚡ Fun fact **I once built an AI model to identify my girlfriend's mood based on her voice.**
 
