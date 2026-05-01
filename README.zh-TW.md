@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/shengwei-peng">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+%E5%B7%A5%E7%A8%8B%E5%B8%AB+%40+%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80;%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8+%C2%B7+%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E7%A2%A9%E5%A3%AB;GPA+4.3+%2F+4.3+%C2%B7+%E5%9C%8B%E5%AE%B6%E7%B4%9A+AI+%E7%AB%B6%E8%B3%BD%E5%89%8D+1%25" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=AI+%E5%B7%A5%E7%A8%8B%E5%B8%AB+%40+%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80;%E6%89%93%E9%80%A0+AI-Native+%C2%B7+Agentic+%E7%B3%BB%E7%B5%B1+%C2%B7+%E7%94%9F%E6%88%90%E5%BC%8F+AI;%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8+%C2%B7+%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E7%A2%A9%E5%A3%AB;GPA+4.3+%2F+4.3+%C2%B7+%E5%9C%8B%E5%AE%B6%E7%B4%9A+AI+%E7%AB%B6%E8%B3%BD%E5%89%8D+1%25" alt="typing"/>
   </a>
 </p>
 
@@ -28,11 +28,11 @@
 <!-- =========================== 關於我 =========================== -->
 ## 👋 關於我
 
-我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的 AI 工程師**，**PEGAAi / PEGAVERSE** 團隊核心成員 — 銜接雲原生基礎建設 (PaaS) 與高效 AI 應用 (SaaS)，協助企業自動化複雜工作流。
+我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的 AI 工程師**，**PEGAAi / PEGAVERSE** 團隊核心成員 — 打造 **AI-Native、Agentic-first** 的 B2B AI 平台，銜接 **雲原生基礎建設 (PaaS)** 與 **生成式 AI 應用 (SaaS)**。
 
-- 🤖 **AI 生態系架構** — 設計自主 Agentic 工作流，整合 Tool Use、Skills 與 MCP 處理高併發企業任務。
-- ⚡ **AI 驅動工程** — 結合規格驅動開發 (SDD) 與 AI 編程代理（Claude Code · Codex · Copilot），快速交付可擴展微服務。
-- 🛡️ **生產級基礎建設** — 於 Kubernetes 打造穩固 MLOps 管線，聚焦可擴展 LLM 部署、CI/CD 與系統可靠性。
+- 🤖 **Agentic AI 生態系架構** — 設計自主 **Agentic 工作流**，整合 **Tool Use、Agent Skills、MCP** 與 **多代理協作 (Multi-Agent Orchestration)** 處理高併發企業任務。
+- ⚡ **AI 驅動工程** — 結合 **規格驅動開發 (SDD)** 與 **Harness Engineering**，搭配 AI 編程代理（Claude Code · Codex · Copilot）快速交付可擴展微服務。
+- 🛡️ **生產級 LLM 基礎建設** — 於 **Kubernetes** 打造 **MLOps** 管線，聚焦可擴展 **LLM 部署、RAG**、CI/CD 與 SRE 級系統可靠性。
 
 > *「AI 是新的電力。」* — **Andrew Ng（吳恩達）**
 
@@ -120,7 +120,9 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agent_Skills-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embeddings-9333EA?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Function_Calling-10A37F?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-F46800?style=flat-square&logoColor=white"/>
@@ -144,11 +146,14 @@
 
 #### ⚡ &nbsp;AI 驅動工程
 <p>
+  <img src="https://img.shields.io/badge/AI--Native-7C3AED?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_Engineering-1C3C3C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-0EA5E9?style=flat-square&logo=readme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harness_Engineering-D97757?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spec--Driven_Development-0EA5E9?style=flat-square&logo=readme&logoColor=white"/>
 </p>
 
 #### 🐍 &nbsp;程式語言
@@ -265,7 +270,7 @@
 
 <!-- =========================== FOOTER =========================== -->
 <p align="center">
-  <em>🤝 歡迎職缺洽談 / 合作交流 — <b>AI 基礎建設 · MLOps · Agentic 系統</b></em><br/><br/>
+  <em>💬 歡迎一起聊聊 — <b>AI-Native · LLM · Generative AI · Agentic AI · Multi-Agent · Skills · Harness Engineering · RAG · MCP</b></em><br/><br/>
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shengwei-peng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>

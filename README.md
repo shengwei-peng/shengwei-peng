@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/shengwei-peng">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+%40+Pegatron;M.S.+Electrical+Engineering+%40+NTUST;GPA+4.3+%2F+4.3+%C2%B7+Top+1%25+in+National+AI+Competitions" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%40+Pegatron;Building+AI-Native+%C2%B7+Agentic+Systems+%C2%B7+Generative+AI;M.S.+Electrical+Engineering+%40+NTUST;GPA+4.3+%2F+4.3+%C2%B7+Top+1%25+in+National+AI+Competitions" alt="typing"/>
   </a>
 </p>
 
@@ -28,11 +28,11 @@
 <!-- =========================== ABOUT =========================== -->
 ## 👋 About Me
 
-I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **PEGAAi / PEGAVERSE** team — bridging cloud-native infrastructure (PaaS) and high-impact AI applications (SaaS) to automate complex enterprise workflows.
+I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **PEGAAi / PEGAVERSE** team — building **AI-Native, Agentic-first** B2B AI platforms that bridge **cloud-native infrastructure (PaaS)** and **Generative AI applications (SaaS)** at enterprise scale.
 
-- 🤖 **Architecting AI Ecosystems** — Designing autonomous Agentic workflows with Tool Use, Skills & MCP for high-concurrency enterprise tasks.
-- ⚡ **AI-Driven Engineering** — Leveraging Spec-Driven Development (SDD) & AI coding agents (Claude Code · Codex · Copilot) to ship scalable microservices.
-- 🛡️ **Production-Ready Infrastructure** — Building robust MLOps pipelines on Kubernetes, focused on scalable LLM deployment, CI/CD, and reliability.
+- 🤖 **Architecting Agentic AI Ecosystems** — Designing autonomous **Agentic workflows** with **Tool Use, Agent Skills, MCP**, and **multi-agent orchestration** for high-concurrency enterprise tasks.
+- ⚡ **AI-Driven Engineering** — Combining **Spec-Driven Development (SDD)** & **Harness Engineering** with AI coding agents (Claude Code · Codex · Copilot) to ship scalable microservices.
+- 🛡️ **Production-Ready LLM Infrastructure** — Building **MLOps** pipelines on **Kubernetes** for scalable **LLM deployment, RAG**, CI/CD, and SRE-grade reliability.
 
 > *"AI is the new electricity."* — **Andrew Ng**
 
@@ -120,7 +120,9 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agent_Skills-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embeddings-9333EA?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Function_Calling-10A37F?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-F46800?style=flat-square&logoColor=white"/>
@@ -144,11 +146,14 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 
 #### ⚡ &nbsp;AI-Driven Engineering
 <p>
+  <img src="https://img.shields.io/badge/AI--Native-7C3AED?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_Engineering-1C3C3C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-0EA5E9?style=flat-square&logo=readme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harness_Engineering-D97757?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spec--Driven_Development-0EA5E9?style=flat-square&logo=readme&logoColor=white"/>
 </p>
 
 #### 🐍 &nbsp;Languages
@@ -265,7 +270,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 
 <!-- =========================== FOOTER =========================== -->
 <p align="center">
-  <em>🤝 Open to roles & collaboration — let's connect on <b>AI Infrastructure · MLOps · Agentic Systems</b></em><br/><br/>
+  <em>💬 Always happy to discuss — <b>AI-Native · LLM · Generative AI · Agentic AI · Multi-Agent · Skills · Harness Engineering · RAG · MCP</b></em><br/><br/>
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shengwei-peng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
