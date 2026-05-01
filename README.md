@@ -265,7 +265,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 
 <!-- =========================== FOOTER =========================== -->
 <p align="center">
-  <em>💬 Always open to discussing <b>AI Infrastructure · MLOps · Agentic Systems</b></em><br/><br/>
+  <em>🤝 Open to roles & collaboration — let's connect on <b>AI Infrastructure · MLOps · Agentic Systems</b></em><br/><br/>
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shengwei-peng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>

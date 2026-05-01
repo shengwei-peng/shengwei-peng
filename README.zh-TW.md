@@ -265,7 +265,7 @@
 
 <!-- =========================== FOOTER =========================== -->
 <p align="center">
-  <em>💬 歡迎討論 <b>AI 基礎建設、MLOps、Agentic 系統</b></em><br/><br/>
+  <em>🤝 歡迎職缺洽談 / 合作交流 — <b>AI 基礎建設 · MLOps · Agentic 系統</b></em><br/><br/>
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shengwei-peng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
