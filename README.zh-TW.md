@@ -1,97 +1,97 @@
 <!-- =========================== HERO =========================== -->
 <a href="https://github.com/shengwei-peng">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=240&section=header&text=Sheng-Wei%20(Ken)%20Peng&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Pegatron&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=240&section=header&text=%E5%BD%AD%E5%8B%9D%E7%B7%AF%20Sheng-Wei%20Peng&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=AI%20%E5%B7%A5%E7%A8%8B%E5%B8%AB%20%C2%B7%20%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80%20Pegatron&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="header"/>
 </a>
 
 <p align="center">
   <a href="https://github.com/shengwei-peng">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+%40+Pegatron;M.S.+Electrical+Engineering+%40+NTUST;GPA+4.3+%2F+4.3+%C2%B7+Top+1%25+in+National+AI+Competitions" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+%E5%B7%A5%E7%A8%8B%E5%B8%AB+%40+%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80;%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8+%C2%B7+%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E7%A2%A9%E5%A3%AB;GPA+4.3+%2F+4.3+%C2%B7+%E5%9C%8B%E5%AE%B6%E7%B4%9A+AI+%E7%AB%B6%E8%B3%BD%E5%89%8D+1%25" alt="typing"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shengwei-peng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.nvidia.com/en-us/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/"><img src="https://img.shields.io/badge/Pegatron%20%C3%97%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-  <a href="https://github.com/shengwei-peng?tab=followers"><img src="https://img.shields.io/github/followers/shengwei-peng?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Follow"/></a>
-  <img src="https://img.shields.io/badge/Open_to-Work-9ECE6A?style=for-the-badge"/>
+  <a href="https://www.nvidia.com/zh-tw/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/"><img src="https://img.shields.io/badge/Pegatron%20%C3%97%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+  <a href="https://github.com/shengwei-peng?tab=followers"><img src="https://img.shields.io/github/followers/shengwei-peng?style=for-the-badge&color=181717&logo=github&logoColor=white&label=%E8%BF%BD%E8%B9%A4"/></a>
+  <img src="https://img.shields.io/badge/%E6%B1%82%E8%81%B7%E4%B8%AD-Open_to_Work-9ECE6A?style=for-the-badge"/>
 </p>
 
 <p align="center">
   🌐 &nbsp;
-  <b>English</b> &nbsp;·&nbsp;
-  <a href="./README.zh-TW.md">繁體中文</a>
+  <a href="./README.md">English</a> &nbsp;·&nbsp;
+  <b>繁體中文</b>
 </p>
 
 ---
 
-<!-- =========================== ABOUT =========================== -->
-## 👋 About Me
+<!-- =========================== 關於我 =========================== -->
+## 👋 關於我
 
-I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **PEGAAi / PEGAVERSE** team — bridging cloud-native infrastructure (PaaS) and high-impact AI applications (SaaS) to automate complex enterprise workflows.
+我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的 AI 工程師**，**PEGAAi / PEGAVERSE** 團隊核心成員 — 銜接雲原生基礎建設 (PaaS) 與高效 AI 應用 (SaaS)，協助企業自動化複雜工作流。
 
-- 🤖 **Architecting AI Ecosystems** — Designing autonomous Agentic workflows with Tool Use, Skills & MCP for high-concurrency enterprise tasks.
-- ⚡ **AI-Driven Engineering** — Leveraging Spec-Driven Development (SDD) & AI coding agents (Claude Code · Codex · Copilot) to ship scalable microservices.
-- 🛡️ **Production-Ready Infrastructure** — Building robust MLOps pipelines on Kubernetes, focused on scalable LLM deployment, CI/CD, and reliability.
+- 🤖 **AI 生態系架構** — 設計自主 Agentic 工作流，整合 Tool Use、Skills 與 MCP 處理高併發企業任務。
+- ⚡ **AI 驅動工程** — 結合規格驅動開發 (SDD) 與 AI 編程代理（Claude Code · Codex · Copilot），快速交付可擴展微服務。
+- 🛡️ **生產級基礎建設** — 於 Kubernetes 打造穩固 MLOps 管線，聚焦可擴展 LLM 部署、CI/CD 與系統可靠性。
 
-> *"AI is the new electricity."* — **Andrew Ng**
+> *「AI 是新的電力。」* — **Andrew Ng（吳恩達）**
 
 ---
 
-<!-- =========================== HONORS =========================== -->
-## 🏆 Honors & Awards
+<!-- =========================== 競賽殊榮 =========================== -->
+## 🏆 競賽殊榮
 
-| Year | Competition / Award | Issuer | Result | Scale |
+| 年份 | 競賽 / 獎項 | 主辦單位 | 名次 | 規模 |
 |:---:|:---|:---|:---:|:---:|
-| **2025** | **SinoPac AI GO Competition** — Index-Growth Stock Prediction | SinoPac Holdings | 🥉 **4th Place** | **Top 0.5 % · 4 / 868** |
-| **2025** | **AI CUP Competition (Spring)** — Renewable PV Power Forecasting | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 1 % · 6 / 934** |
-| **2024** | **AI CUP Competition (Fall)** — Generative AI for UAV Reconnaissance Navigation | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 5 % · 7 / 130** |
-| **2023** | **Phi Tau Phi Scholastic Honor Society of the R.O.C.** — Awarded Only to Top-Ranked Graduates | Phi Tau Phi | 🎓 **Honorary Member** | — |
-| **2022** | **Taiwan Innotech Expo Invention Contest** — VR-Based Visual-Field Evaluation Device (Patent) | Taiwan Intellectual Property Office (TIPO), MOEA | 🥇 **Gold Medal Award** | National |
-| **2022** | **26th Taiwan TDK Robocon** — Autonomous UAV Flight Competition | Ministry of Education, Taiwan | 🏆 **Champion** | National |
-| **2022** | **18th National Electronic Design Creative Competition** — AI-Powered AGV for Waste-Collection Navigation & Sanitization | National Kaohsiung Univ. of Science & Technology | 🏆 **Champion** | National |
-| **2022** | **17th Digital Signal Processing Creative Design Contest** — Green Energy & Control Applications | Ministry of Education, Taiwan | 🥉 **Third Place** | National |
+| **2025** | **永豐 AI GO 競賽** — 台股指數成長型個股預測 | 永豐金控 | 🥉 **第四名** | **前 0.5 % · 4 / 868 隊** |
+| **2025** | **教育部 AI CUP 競賽（春季賽）** — 區域微氣候資料風光電發電量預測 | 教育部 | 🎖 **佳作** | **前 1 % · 6 / 934 隊** |
+| **2024** | **教育部 AI CUP 競賽（秋季賽）** — 自然環境下無人機偵察生成式 AI 影像導航 | 教育部 | 🎖 **佳作** | **前 5 % · 7 / 130 隊** |
+| **2023** | **中華民國斐陶斐榮譽學會** — 僅授予畢業班第一名之學生 | 斐陶斐 | 🎓 **榮譽會員** | — |
+| **2022** | **台灣創新技術博覽會發明競賽** — VR 穿戴式視野評估裝置（專利） | 經濟部智慧財產局 | 🥇 **金牌獎** | 全國 |
+| **2022** | **第 26 屆 TDK 盃全國大專院校創思設計競賽** — 自主無人機飛行賽 | 教育部 | 🏆 **冠軍** | 全國 |
+| **2022** | **第 18 屆全國電子設計創意競賽** — AI 自動清運與消毒之自走車 | 國立高雄科技大學 | 🏆 **冠軍** | 全國 |
+| **2022** | **第 17 屆數位訊號處理創思設計競賽** — 綠色能源與控制應用組 | 教育部 | 🥉 **季軍** | 全國 |
 
 ---
 
-<!-- =========================== EXPERIENCE =========================== -->
-## 💼 Experience & Education
+<!-- =========================== 經歷與學歷 =========================== -->
+## 💼 經歷與學歷
 
-#### Experience
+#### 經歷
 
 <table>
 <tr>
-  <td valign="top" width="190"><b>Sep 2025 – Present</b><br/><sub>Kaohsiung, Taiwan · On-site</sub></td>
+  <td valign="top" width="190"><b>2025.09 – 至今</b><br/><sub>高雄 · 全職現場</sub></td>
   <td>
-    <b>AI Engineer</b><br/>
-    <a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time
+    <b>AI 工程師</b><br/>
+    <a href="https://www.pegatroncorp.com/"><b>和碩聯合科技 (Pegatron)</b></a> · 正職
   </td>
 </tr>
 <tr>
-  <td valign="top"><b>Jul 2024 – Aug 2024</b><br/><sub>Taipei, Taiwan · On-site</sub></td>
+  <td valign="top"><b>2024.07 – 2024.08</b><br/><sub>台北 · 實習現場</sub></td>
   <td>
-    <b>AI Engineer Intern</b><br/>
-    <a href="https://www.trendmicro.com/"><b>TrendAI</b></a> · Internship
+    <b>AI 工程師實習生</b><br/>
+    <a href="https://www.trendmicro.com/zh_tw/"><b>趨勢科技 (TrendAI)</b></a> · 實習
   </td>
 </tr>
 </table>
 
-#### Education
+#### 學歷
 
 <table>
 <tr>
-  <td valign="top" width="190"><b>Feb 2024 – Jul 2025</b></td>
+  <td valign="top" width="190"><b>2024.02 – 2025.07</b></td>
   <td>
-    <b>Master of Science · Electrical Engineering</b><br/>
-    <a href="https://www.ntust.edu.tw/?Lang=en"><b>National Taiwan University of Science and Technology (NTUST)</b></a><br/>
+    <b>電機工程研究所 · 碩士</b><br/>
+    <a href="https://www.ntust.edu.tw/"><b>國立臺灣科技大學 (NTUST)</b></a><br/>
     <sub>GPA <b>4.3 / 4.3</b></sub>
   </td>
 </tr>
 <tr>
-  <td valign="top"><b>Feb 2023 – Jan 2024</b></td>
+  <td valign="top"><b>2023.02 – 2024.01</b></td>
   <td>
-    <b>Master of Science · Graduate Institute of Intelligent Manufacturing Technology</b><br/>
-    <a href="https://www.ntust.edu.tw/?Lang=en"><b>National Taiwan University of Science and Technology (NTUST)</b></a><br/>
+    <b>智慧製造科技研究所 · 碩士</b><br/>
+    <a href="https://www.ntust.edu.tw/"><b>國立臺灣科技大學 (NTUST)</b></a><br/>
     <sub>GPA <b>4.3 / 4.3</b></sub>
   </td>
 </tr>
@@ -99,10 +99,10 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 
 ---
 
-<!-- =========================== TECH STACK =========================== -->
-## 🛠️ Tech Stack
+<!-- =========================== 技術棧 =========================== -->
+## 🛠️ 技術棧
 
-#### 🧠 &nbsp;LLM · Foundation Models
+#### 🧠 &nbsp;大型語言模型 · 基礎模型
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
@@ -114,7 +114,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
 
-#### 🤖 &nbsp;Agentic AI · RAG · Inference Serving
+#### 🤖 &nbsp;Agentic AI · RAG · 推論部署
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
@@ -128,7 +128,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
 
-#### 📊 &nbsp;Machine Learning · Fine-Tuning
+#### 📊 &nbsp;機器學習 · 模型微調
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -142,7 +142,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/PEFT-FFD21E?style=flat-square&logoColor=black"/>
 </p>
 
-#### ⚡ &nbsp;AI-Driven Engineering
+#### ⚡ &nbsp;AI 驅動工程
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
@@ -151,7 +151,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/Spec--Driven_Development-0EA5E9?style=flat-square&logo=readme&logoColor=white"/>
 </p>
 
-#### 🐍 &nbsp;Languages
+#### 🐍 &nbsp;程式語言
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -163,7 +163,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-#### 🌐 &nbsp;Backend · API
+#### 🌐 &nbsp;後端 · API
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -177,7 +177,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
 </p>
 
-#### 🎨 &nbsp;Frontend · Web UI
+#### 🎨 &nbsp;前端 · Web UI
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -193,7 +193,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logoColor=white"/>
 </p>
 
-#### ☁️ &nbsp;Cloud · DevOps
+#### ☁️ &nbsp;雲端 · DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
@@ -208,7 +208,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 
-#### 📈 &nbsp;MLOps · Observability
+#### 📈 &nbsp;MLOps · 可觀測性
 <p>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
@@ -220,7 +220,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/LangFuse-1E1E1E?style=flat-square&logoColor=white"/>
 </p>
 
-#### 🗄️ &nbsp;Databases · Vector · Search · Streaming
+#### 🗄️ &nbsp;資料庫 · 向量 · 搜尋 · 串流
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -238,11 +238,11 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 ---
 
 <!-- =========================== STATS =========================== -->
-## 📊 GitHub Activity
+## 📊 GitHub 活動
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff#gh-dark-mode-only" alt="streak"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=default&hide_border=true#gh-light-mode-only" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=zh_TW#gh-dark-mode-only" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=default&hide_border=true&locale=zh_TW#gh-light-mode-only" alt="streak"/>
 </p>
 
 <p align="center">
@@ -259,7 +259,7 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 
 <!-- =========================== FOOTER =========================== -->
 <p align="center">
-  <em>💬 Always open to discussing <b>AI Infrastructure · MLOps · Agentic Systems</b></em><br/><br/>
+  <em>💬 歡迎討論 <b>AI 基礎建設、MLOps、Agentic 系統</b></em><br/><br/>
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shengwei-peng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
