@@ -241,18 +241,24 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff#gh-dark-mode-only" alt="streak"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=default&hide_border=true#gh-light-mode-only" alt="streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shengwei-peng&theme=default&hide_border=true" alt="streak"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff#gh-dark-mode-only"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=github-light&hide_border=true&color=0969da&line=0969da&point=000000#gh-light-mode-only"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=github-light&hide_border=true&color=0969da&line=0969da&point=000000" alt="activity graph"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shengwei-peng/shengwei-peng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake"/>
-  <img src="https://raw.githubusercontent.com/shengwei-peng/shengwei-peng/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shengwei-peng/shengwei-peng/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/shengwei-peng/shengwei-peng/output/github-contribution-grid-snake.svg" alt="snake"/>
+  </picture>
 </p>
 
 ---
