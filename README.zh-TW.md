@@ -28,11 +28,11 @@
 <!-- =========================== 關於我 =========================== -->
 ## 👋 關於我
 
-我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的 AI 工程師**，**PEGAAi / PEGAVERSE** 團隊核心成員 — 打造 **AI-Native、Agentic-first** 的 B2B AI 平台，銜接 **雲原生基礎建設 (PaaS)** 與 **生成式 AI 應用 (SaaS)**。
+我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的 AI 工程師**，**[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** 團隊核心成員 — 打造 **AI-Native、Agentic-first** 的 B2B AI 平台，銜接 **雲原生基礎建設 (PaaS)** 與 **生成式 AI 應用 (SaaS)**。
 
-- 🤖 **Agentic AI 生態系架構** — 設計自主 **Agentic 工作流**，整合 **Tool Use、Agent Skills、MCP** 與 **多代理協作 (Multi-Agent Orchestration)** 處理高併發企業任務。
-- ⚡ **AI 驅動工程** — 結合 **規格驅動開發 (SDD)** 與 **Harness Engineering**，搭配 AI 編程代理（Claude Code · Codex · Copilot）快速交付可擴展微服務。
-- 🛡️ **生產級 LLM 基礎建設** — 於 **Kubernetes** 打造 **MLOps** 管線，聚焦可擴展 **LLM 部署、RAG**、CI/CD 與 SRE 級系統可靠性。
+- 🤖 **Agentic AI 生態系架構** — 設計自主 **Agentic 工作流**，整合 **Tool Use、Agent Skills、MCP** 與 **多代理協作 (Multi-Agent Orchestration)** 支撐高併發、關鍵任務級的企業應用。
+- ⚡ **AI 驅動工程** — 結合 **規格驅動開發 (SDD)** 與 **Harness Engineering**，搭配 AI 編程代理（Claude Code · Codex · Copilot）以高速度與品質交付可擴展、可追溯的微服務。
+- 🛡️ **生產級 LLM 基礎建設** — 於 **Kubernetes** 打造 **MLOps** 管線，聚焦可擴展 **LLM 部署、RAG**、CI/CD、**SRE 級系統可靠性**，以及企業級 **ISO 42001** Responsible AI 治理。
 
 > *「AI 是新的電力。」* — **Andrew Ng（吳恩達）**
 
@@ -44,11 +44,11 @@
 | 年份 | 競賽 / 獎項 | 主辦單位 | 名次 | 規模 |
 |:---:|:---|:---|:---:|:---:|
 | **2025** | **永豐 AI GO 競賽** — 台股指數成長型個股預測 | 永豐金控 | 🥉 **第四名** | **前 0.5 % · 4 / 868 隊** |
-| **2025** | **教育部 AI CUP 競賽（春季賽）** — 區域微氣候資料風光電發電量預測 | 教育部 | 🎖 **佳作** | **前 1 % · 6 / 934 隊** |
+| **2024** | **教育部 AI CUP 競賽（春季賽）** — 區域微氣候資料風光電發電量預測 | 教育部 | 🎖 **佳作** | **前 1 % · 6 / 934 隊** |
 | **2024** | **教育部 AI CUP 競賽（秋季賽）** — 自然環境下無人機偵察生成式 AI 影像導航 | 教育部 | 🎖 **佳作** | **前 5 % · 7 / 130 隊** |
-| **2023** | **中華民國斐陶斐榮譽學會** — 僅授予畢業班第一名之學生 | 斐陶斐 | 🎓 **榮譽會員** | — |
+| **2023** | **中華民國斐陶斐榮譽學會** — 僅授予畢業系排前 1 % 之學生 | 斐陶斐 | 🎓 **榮譽會員** | **系排前 1 %** |
 | **2022** | **台灣創新技術博覽會發明競賽** — VR 穿戴式視野評估裝置（專利） | 經濟部智慧財產局 | 🥇 **金牌獎** | 全國 |
-| **2022** | **第 26 屆 TDK 盃全國大專院校創思設計競賽** — 自主無人機飛行賽 | 教育部 | 🏆 **冠軍** | 全國 |
+| **2022** | **第 26 屆 TDK 盃全國大專院校創思設計競賽** — 自主無人機飛行賽 | 教育部 · TDK 株式會社 | 🏆 **冠軍** | 全國 |
 | **2022** | **第 18 屆全國電子設計創意競賽** — AI 自動清運與消毒之自走車 | 國立高雄科技大學 | 🏆 **冠軍** | 全國 |
 | **2022** | **第 17 屆數位訊號處理創思設計競賽** — 綠色能源與控制應用組 | 教育部 | 🥉 **季軍** | 全國 |
 
@@ -107,9 +107,14 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white"/>
   <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&logo=cohere&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phi-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kimi-7C3AED?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepSeek-3C3CFF?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
@@ -120,12 +125,11 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Function_Calling-10A37F?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agent_Skills-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embeddings-9333EA?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Function_Calling-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-F46800?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/vLLM-EE4C2C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
@@ -135,11 +139,11 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EB6624?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LightGBM-3D7E2A?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/LoRA-EE4C2C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/PEFT-FFD21E?style=flat-square&logoColor=black"/>
 </p>
@@ -153,17 +157,21 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/>
 </p>
 
 #### 🐍 &nbsp;程式語言
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
@@ -220,8 +228,10 @@
   <img src="https://img.shields.io/badge/Kubeflow-0066FF?style=flat-square&logo=kubeflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangFuse-1E1E1E?style=flat-square&logoColor=white"/>
 </p>
 

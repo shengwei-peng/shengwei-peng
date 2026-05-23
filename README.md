@@ -28,11 +28,11 @@
 <!-- =========================== ABOUT =========================== -->
 ## 👋 About Me
 
-I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **PEGAAi / PEGAVERSE** team — building **AI-Native, Agentic-first** B2B AI platforms that bridge **cloud-native infrastructure (PaaS)** and **Generative AI applications (SaaS)** at enterprise scale.
+I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** team — building **AI-Native, Agentic-first** B2B AI platforms that bridge **cloud-native infrastructure (PaaS)** and **Generative AI applications (SaaS)** at enterprise scale.
 
-- 🤖 **Architecting Agentic AI Ecosystems** — Designing autonomous **Agentic workflows** with **Tool Use, Agent Skills, MCP**, and **multi-agent orchestration** for high-concurrency enterprise tasks.
-- ⚡ **AI-Driven Engineering** — Combining **Spec-Driven Development (SDD)** & **Harness Engineering** with AI coding agents (Claude Code · Codex · Copilot) to ship scalable microservices.
-- 🛡️ **Production-Ready LLM Infrastructure** — Building **MLOps** pipelines on **Kubernetes** for scalable **LLM deployment, RAG**, CI/CD, and SRE-grade reliability.
+- 🤖 **Architecting Agentic AI Ecosystems** — Designing autonomous **Agentic workflows** with **Tool Use, Agent Skills, MCP**, and **multi-agent orchestration** to power high-concurrency, mission-critical enterprise tasks at scale.
+- ⚡ **AI-Driven Engineering** — Combining **Spec-Driven Development (SDD)** & **Harness Engineering** with AI coding agents (Claude Code · Codex · Copilot) to ship scalable, traceable microservices with high velocity and quality.
+- 🛡️ **Production-Ready LLM Infrastructure** — Engineering **MLOps** pipelines on **Kubernetes** for scalable **LLM deployment, RAG**, CI/CD, **SRE-grade reliability**, and **ISO 42001** Responsible AI governance at enterprise scale.
 
 > *"AI is the new electricity."* — **Andrew Ng**
 
@@ -44,11 +44,11 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 | Year | Competition / Award | Issuer | Result | Scale |
 |:---:|:---|:---|:---:|:---:|
 | **2025** | **SinoPac AI GO Competition** — Index-Growth Stock Prediction | SinoPac Holdings | 🥉 **4th Place** | **Top 0.5 % · 4 / 868** |
-| **2025** | **AI CUP Competition (Spring)** — Renewable PV Power Forecasting | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 1 % · 6 / 934** |
+| **2024** | **AI CUP Competition (Spring)** — Renewable PV Power Forecasting | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 1 % · 6 / 934** |
 | **2024** | **AI CUP Competition (Fall)** — Generative AI for UAV Reconnaissance Navigation | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 5 % · 7 / 130** |
-| **2023** | **Phi Tau Phi Scholastic Honor Society of the R.O.C.** — Awarded Only to Top-Ranked Graduates | Phi Tau Phi | 🎓 **Honorary Member** | — |
+| **2023** | **Phi Tau Phi Scholastic Honor Society of the R.O.C.** — Awarded Only to Department Top 1% Graduates | Phi Tau Phi | 🎓 **Honorary Member** | **Dept. Top 1 %** |
 | **2022** | **Taiwan Innotech Expo Invention Contest** — VR-Based Visual-Field Evaluation Device (Patent) | Taiwan Intellectual Property Office (TIPO), MOEA | 🥇 **Gold Medal Award** | National |
-| **2022** | **26th Taiwan TDK Robocon** — Autonomous UAV Flight Competition | Ministry of Education, Taiwan | 🏆 **Champion** | National |
+| **2022** | **26th Taiwan TDK Robocon** — Autonomous UAV Flight Competition | Ministry of Education, Taiwan · TDK Corporation | 🏆 **Champion** | National |
 | **2022** | **18th National Electronic Design Creative Competition** — AI-Powered AGV for Waste-Collection Navigation & Sanitization | National Kaohsiung Univ. of Science & Technology | 🏆 **Champion** | National |
 | **2022** | **17th Digital Signal Processing Creative Design Contest** — Green Energy & Control Applications | Ministry of Education, Taiwan | 🥉 **Third Place** | National |
 
@@ -107,9 +107,14 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white"/>
   <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&logo=cohere&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phi-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kimi-7C3AED?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepSeek-3C3CFF?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
@@ -120,12 +125,11 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Function_Calling-10A37F?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agent_Skills-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embeddings-9333EA?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Function_Calling-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-F46800?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/vLLM-EE4C2C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
@@ -135,11 +139,11 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-EB6624?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LightGBM-3D7E2A?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/LoRA-EE4C2C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/PEFT-FFD21E?style=flat-square&logoColor=black"/>
 </p>
@@ -153,17 +157,21 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/>
 </p>
 
 #### 🐍 &nbsp;Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
@@ -220,8 +228,10 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
   <img src="https://img.shields.io/badge/Kubeflow-0066FF?style=flat-square&logo=kubeflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangFuse-1E1E1E?style=flat-square&logoColor=white"/>
 </p>
 
