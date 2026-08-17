@@ -1,11 +1,11 @@
 <!-- =========================== HERO =========================== -->
 <a href="https://github.com/shengwei-peng">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=240&section=header&text=Sheng-Wei%20(Ken)%20Peng&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Pegatron&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="Sheng-Wei (Ken) Peng — AI Engineer at Pegatron"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=240&section=header&text=Sheng-Wei%20(Ken)%20Peng&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Senior%20AI%20Engineer%20%C2%B7%20Pegatron&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="Sheng-Wei (Ken) Peng — Senior AI Engineer at Pegatron"/>
 </a>
 
 <p align="center">
   <a href="https://github.com/shengwei-peng">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%40+Pegatron;Building+AI-Native+%C2%B7+Agentic+Systems+%C2%B7+Generative+AI;M.S.+Electrical+Engineering+%40+NTUST;Top+1%25+in+National+AI+Competitions" alt="AI Engineer at Pegatron · Building AI-Native, Agentic Systems, Generative AI"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=Senior+AI+Engineer+%40+Pegatron;Building+AI-Native+%C2%B7+Agentic+Systems+%C2%B7+Generative+AI;M.S.+Electrical+Engineering+%40+NTUST;Top+1%25+in+National+AI+Competitions" alt="Senior AI Engineer at Pegatron · Building AI-Native, Agentic Systems, Generative AI"/>
   </a>
 </p>
 
@@ -14,7 +14,6 @@
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.nvidia.com/en-us/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/"><img src="https://img.shields.io/badge/Pegatron%20%C3%97%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Pegatron × NVIDIA"/></a>
   <a href="https://github.com/shengwei-peng?tab=followers"><img src="https://img.shields.io/github/followers/shengwei-peng?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Follow" alt="GitHub followers"/></a>
-  <img src="https://img.shields.io/badge/Open_to-Work-9ECE6A?style=for-the-badge" alt="Open to Work"/>
 </p>
 
 <p align="center">
@@ -28,7 +27,7 @@
 <!-- =========================== ABOUT =========================== -->
 ## 👋 About Me
 
-I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** team — building **AI-Native, Agentic-first** B2B AI platforms that bridge **cloud-native infrastructure (PaaS)** and **Generative AI applications (SaaS)** at enterprise scale.
+I'm a **Senior AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** team — building **AI-Native, Agentic-first** B2B AI platforms that bridge **cloud-native infrastructure (PaaS)** and **Generative AI applications (SaaS)** at enterprise scale.
 
 - 🤖 **Architecting Agentic AI Ecosystems** — Designing autonomous **Agentic workflows** with **Tool Use, Agent Skills, MCP**, and **multi-agent orchestration** to power high-concurrency, mission-critical enterprise tasks at scale.
 - ⚡ **AI-Driven Engineering** — Combining **Spec-Driven Development (SDD)** & **Harness Engineering** with AI coding agents (Claude Code · Codex · Opencode) to ship scalable, traceable microservices with high velocity and quality.
@@ -60,7 +59,14 @@ I'm an **AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core m
 
 <table>
 <tr>
-  <td valign="top" width="190"><b>Sep 2025 – Present</b><br/><sub>Kaohsiung, Taiwan · On-site</sub></td>
+  <td valign="top" width="190"><b>Aug 2026 – Present</b><br/><sub>Kaohsiung, Taiwan · On-site</sub></td>
+  <td>
+    <b>Senior AI Engineer</b><br/>
+    <a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="190"><b>Sep 2025 – Aug 2026</b><br/><sub>Kaohsiung, Taiwan · On-site</sub></td>
   <td>
     <b>AI Engineer</b><br/>
     <a href="https://www.pegatroncorp.com/"><b>Pegatron</b></a> · Full-time

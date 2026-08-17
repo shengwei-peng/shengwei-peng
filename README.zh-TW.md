@@ -1,11 +1,11 @@
 <!-- =========================== HERO =========================== -->
 <a href="https://github.com/shengwei-peng">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=240&section=header&text=%E5%BD%AD%E5%8B%9D%E7%B7%AF%20Sheng-Wei%20Peng&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=AI%20%E5%B7%A5%E7%A8%8B%E5%B8%AB%20%C2%B7%20%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80%20Pegatron&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="彭勝緯 Sheng-Wei Peng — 和碩聯合科技 AI 工程師"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:7AA2F7&height=240&section=header&text=%E5%BD%AD%E5%8B%9D%E7%B7%AF%20Sheng-Wei%20Peng&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=%E8%B3%87%E6%B7%B1%20AI%20%E5%B7%A5%E7%A8%8B%E5%B8%AB%20%C2%B7%20%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80%20Pegatron&descSize=22&descAlign=50&descAlignY=60&animation=fadeIn" alt="彭勝緯 Sheng-Wei Peng — 和碩聯合科技資深 AI 工程師"/>
 </a>
 
 <p align="center">
   <a href="https://github.com/shengwei-peng">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=AI+%E5%B7%A5%E7%A8%8B%E5%B8%AB+%40+%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80;%E6%89%93%E9%80%A0+AI-Native+%C2%B7+Agentic+%E7%B3%BB%E7%B5%B1+%C2%B7+%E7%94%9F%E6%88%90%E5%BC%8F+AI;%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8+%C2%B7+%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E7%A2%A9%E5%A3%AB;%E5%9C%8B%E5%AE%B6%E7%B4%9A+AI+%E7%AB%B6%E8%B3%BD%E5%89%8D+1%25" alt="AI 工程師 @ 和碩聯合科技 · 打造 AI-Native、Agentic 系統、生成式 AI"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=%E8%B3%87%E6%B7%B1+AI+%E5%B7%A5%E7%A8%8B%E5%B8%AB+%40+%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80;%E6%89%93%E9%80%A0+AI-Native+%C2%B7+Agentic+%E7%B3%BB%E7%B5%B1+%C2%B7+%E7%94%9F%E6%88%90%E5%BC%8F+AI;%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8+%C2%B7+%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E7%A2%A9%E5%A3%AB;%E5%9C%8B%E5%AE%B6%E7%B4%9A+AI+%E7%AB%B6%E8%B3%BD%E5%89%8D+1%25" alt="資深 AI 工程師 @ 和碩聯合科技 · 打造 AI-Native、Agentic 系統、生成式 AI"/>
   </a>
 </p>
 
@@ -14,7 +14,6 @@
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.nvidia.com/zh-tw/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/"><img src="https://img.shields.io/badge/Pegatron%20%C3%97%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Pegatron × NVIDIA"/></a>
   <a href="https://github.com/shengwei-peng?tab=followers"><img src="https://img.shields.io/github/followers/shengwei-peng?style=for-the-badge&color=181717&logo=github&logoColor=white&label=%E8%BF%BD%E8%B9%A4" alt="GitHub 追蹤者"/></a>
-  <img src="https://img.shields.io/badge/%E6%B1%82%E8%81%B7%E4%B8%AD-Open_to_Work-9ECE6A?style=for-the-badge" alt="求職中 Open to Work"/>
 </p>
 
 <p align="center">
@@ -28,7 +27,7 @@
 <!-- =========================== 關於我 =========================== -->
 ## 👋 關於我
 
-我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的 AI 工程師**，**[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** 團隊核心成員 — 打造 **AI-Native、Agentic-first** 的 B2B AI 平台，銜接 **雲原生基礎建設 (PaaS)** 與 **生成式 AI 應用 (SaaS)**。
+我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的資深 AI 工程師**，**[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** 團隊核心成員 — 打造 **AI-Native、Agentic-first** 的 B2B AI 平台，銜接 **雲原生基礎建設 (PaaS)** 與 **生成式 AI 應用 (SaaS)**。
 
 - 🤖 **Agentic AI 生態系架構** — 設計自主 **Agentic 工作流**，整合 **Tool Use、Agent Skills、MCP** 與 **多代理協作 (Multi-Agent Orchestration)** 支撐高併發、關鍵任務級的企業應用。
 - ⚡ **AI 驅動工程** — 結合 **規格驅動開發 (SDD)** 與 **Harness Engineering**，搭配 AI 編程代理（Claude Code · Codex · Opencode）以高速度與品質交付可擴展、可追溯的微服務。
@@ -60,7 +59,14 @@
 
 <table>
 <tr>
-  <td valign="top" width="190"><b>2025.09 – 至今</b><br/><sub>高雄 · 全職現場</sub></td>
+  <td valign="top" width="190"><b>2026.08 – 至今</b><br/><sub>高雄 · 全職現場</sub></td>
+  <td>
+    <b>資深 AI 工程師</b><br/>
+    <a href="https://www.pegatroncorp.com/"><b>和碩聯合科技 (Pegatron)</b></a> · 正職
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="190"><b>2025.09 – 2026.08</b><br/><sub>高雄 · 全職現場</sub></td>
   <td>
     <b>AI 工程師</b><br/>
     <a href="https://www.pegatroncorp.com/"><b>和碩聯合科技 (Pegatron)</b></a> · 正職
