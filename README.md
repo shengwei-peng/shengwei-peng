@@ -218,6 +218,7 @@ I'm a **Senior AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/a11y-005A9C?style=flat-square&logoColor=white" alt="WCAG 2.2 Accessibility (a11y)"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio"/>
 </p>
