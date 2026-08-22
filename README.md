@@ -271,8 +271,6 @@ I'm a **Senior AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a 
 <!-- =========================== STATS =========================== -->
 ## 📊 GitHub Activity
 
-<p align="center"><sub><b>30 public repositories</b> &nbsp;·&nbsp; <b>100+ stars earned</b></sub></p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>

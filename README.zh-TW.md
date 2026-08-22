@@ -271,8 +271,6 @@
 <!-- =========================== STATS =========================== -->
 ## 📊 GitHub 活動
 
-<p align="center"><sub><b>30 個公開專案</b> &nbsp;·&nbsp; <b>累計 100+ stars</b></sub></p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
