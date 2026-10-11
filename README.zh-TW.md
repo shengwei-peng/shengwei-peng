@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/shengwei-peng">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=%E8%B3%87%E6%B7%B1+AI+%E5%B7%A5%E7%A8%8B%E5%B8%AB+%40+%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80;%E6%89%93%E9%80%A0+AI-Native+%C2%B7+Agentic+%E7%B3%BB%E7%B5%B1+%C2%B7+%E7%94%9F%E6%88%90%E5%BC%8F+AI;%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8+%C2%B7+%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E7%A2%A9%E5%A3%AB;%E5%9C%8B%E5%AE%B6%E7%B4%9A+AI+%E7%AB%B6%E8%B3%BD%E5%89%8D+1%25" alt="資深 AI 工程師 @ 和碩聯合科技 · 打造 AI-Native、Agentic 系統、生成式 AI"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=%E8%B3%87%E6%B7%B1+AI+%E5%B7%A5%E7%A8%8B%E5%B8%AB+%40+%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80;%E6%89%93%E9%80%A0+AI-Native+%C2%B7+Agentic+%E7%B3%BB%E7%B5%B1+%C2%B7+%E7%94%9F%E6%88%90%E5%BC%8F+AI;%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8+%C2%B7+%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B%E7%A2%A9%E5%A3%AB;%E5%9C%8B%E5%AE%B6%E7%B4%9A+AI+%E7%AB%B6%E8%B3%BD%E5%89%8D+1%25" alt="資深 AI 工程師 @ 和碩聯合科技 · 打造 AI-Native、Agentic 系統、生成式 AI · 國立臺灣科技大學電機工程碩士 · 國家級 AI 競賽前 1%"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <!-- =========================== 關於我 =========================== -->
 ## 👋 關於我
 
-我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的資深 AI 工程師**，**[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** 團隊核心成員 — 打造 **AI-Native、Agentic-first** 的 B2B AI 平台，銜接 **雲原生基礎建設 (PaaS)** 與 **生成式 AI 應用 (SaaS)**。
+我是 **[和碩聯合科技 (Pegatron)](https://www.pegatroncorp.com/) 的資深 AI 工程師**，**[PEGAAi](https://www.nvidia.com/zh-tw/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** 團隊核心成員 — 打造 **AI-Native、Agentic-first** 的 B2B AI 平台，銜接 **雲原生基礎建設 (PaaS)** 與 **生成式 AI 應用 (SaaS)**。
 
 - 🤖 **Agentic AI 生態系架構** — 設計自主 **Agentic 工作流**，整合 **Tool Use、Agent Skills、MCP** 與 **多代理協作 (Multi-Agent Orchestration)** 支撐高併發、關鍵任務級的企業應用。
 - ⚡ **AI 驅動工程** — 結合 **規格驅動開發 (SDD)** 與 **Harness Engineering**，搭配 AI 編程代理（Claude Code · Codex · Opencode）以高速度與品質交付可擴展、可追溯的微服務。

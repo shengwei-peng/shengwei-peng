@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/shengwei-peng">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=Senior+AI+Engineer+%40+Pegatron;Building+AI-Native+%C2%B7+Agentic+Systems+%C2%B7+Generative+AI;M.S.+Electrical+Engineering+%40+NTUST;Top+1%25+in+National+AI+Competitions" alt="Senior AI Engineer at Pegatron · Building AI-Native, Agentic Systems, Generative AI"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=Senior+AI+Engineer+%40+Pegatron;Building+AI-Native+%C2%B7+Agentic+Systems+%C2%B7+Generative+AI;M.S.+Electrical+Engineering+%40+NTUST;Top+1%25+in+National+AI+Competitions" alt="Senior AI Engineer at Pegatron · Building AI-Native, Agentic Systems, Generative AI · M.S. Electrical Engineering at NTUST · Top 1% in National AI Competitions"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <!-- =========================== ABOUT =========================== -->
 ## 👋 About Me
 
-I'm a **Senior AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **[PEGAAi](https://github.com/PEGAAi) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** team — building **AI-Native, Agentic-first** B2B AI platforms that bridge **cloud-native infrastructure (PaaS)** and **Generative AI applications (SaaS)** at enterprise scale.
+I'm a **Senior AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a core member of the **[PEGAAi](https://www.nvidia.com/en-us/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/) / [PEGAVERSE](https://www.linkedin.com/company/pegaverse/)** team — building **AI-Native, Agentic-first** B2B AI platforms that bridge **cloud-native infrastructure (PaaS)** and **Generative AI applications (SaaS)** at enterprise scale.
 
 - 🤖 **Architecting Agentic AI Ecosystems** — Designing autonomous **Agentic workflows** with **Tool Use, Agent Skills, MCP**, and **multi-agent orchestration** to power high-concurrency, mission-critical enterprise tasks at scale.
 - ⚡ **AI-Driven Engineering** — Combining **Spec-Driven Development (SDD)** & **Harness Engineering** with AI coding agents (Claude Code · Codex · Opencode) to ship scalable, traceable microservices with high velocity and quality.
