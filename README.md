@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/shengwei-peng/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ken90516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.nvidia.com/en-us/customer-stories/pegatron-scales-factory-operations-with-visual-ai-digital-twins/"><img src="https://img.shields.io/badge/Pegatron%20%C3%97%20NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Pegatron × NVIDIA"/></a>
-  <a href="https://github.com/shengwei-peng?tab=followers"><img src="https://img.shields.io/github/followers/shengwei-peng?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Follow" alt="GitHub followers"/></a>
 </p>
 
 <p align="center">
@@ -252,18 +251,6 @@ I'm a **Senior AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a 
 </p>
 
 </details>
-
----
-
-<!-- =========================== STATS =========================== -->
-## 📊 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shengwei-peng&theme=github-light&hide_border=true&color=0969da&line=0969da&point=000000" alt="GitHub contribution activity graph"/>
-  </picture>
-</p>
 
 ---
 
