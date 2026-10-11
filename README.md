@@ -42,10 +42,10 @@ I'm a **Senior AI Engineer at [Pegatron](https://www.pegatroncorp.com/)** and a 
 
 | Competition / Award | Issuer | Result | Scale |
 |:---|:---|:---:|:---:|
-| **2025 SinoPac AI GO Competition** — Index-Growth Stock Prediction | SinoPac Holdings | 🏅 **4th Place** | **Top 0.5 % · 4 / 868** |
-| **2024 AI CUP Competition (Spring)** — Renewable PV Power Forecasting | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 1 % · 6 / 934** |
-| **2024 AI CUP Competition (Autumn)** — Generative AI for UAV Reconnaissance Navigation | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 5 % · 7 / 130** |
-| **2022 Taiwan Innotech Expo Invention Contest** — VR-Based Visual-Field Evaluation Device (Patent) | Taiwan Intellectual Property Office (TIPO), MOEA | 🥇 **Gold Medal Award** | National |
+| **2025 SinoPac AI GO Competition** — Index-Growth Stock Prediction | SinoPac Holdings | 🏅 **Merit Award** | **Top 0.5 % · 4 / 868** |
+| **2024 AI CUP Competition (Autumn)** — Renewable PV Power Forecasting | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 1 % · 6 / 934** |
+| **2024 AI CUP Competition (Spring)** — Generative AI for UAV Reconnaissance Navigation | Ministry of Education, Taiwan | 🎖 **Honorable Mention** | **Top 6 % · 7 / 130** |
+| **2022 Taiwan Innotech Expo Invention Contest** — VR-Based Visual-Field Evaluation Device (Patent) | Taiwan Innotech Expo (TIE) | 🥇 **Gold Medal Award** | National |
 | **2022 26th Taiwan TDK Robocon** — Autonomous UAV Flight Competition | Ministry of Education, Taiwan · TDK Corporation | 🏆 **Champion** | National |
 | **2022 18th National Electronic Design Creative Competition** — AI-Powered AGV for Waste-Collection Navigation & Sanitization | National Kaohsiung Univ. of Science & Technology | 🏆 **Champion** | National |
 | **2022 17th Digital Signal Processing Creative Design Contest** — Green Energy & Control Applications | Ministry of Education, Taiwan | 🥉 **Third Place** | National |
